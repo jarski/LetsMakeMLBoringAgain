@@ -2,6 +2,16 @@
 
 ## Setup
 
+The exericses could be run locally using docker or in some cloud service for jupyter notebooks like Google Colab.
+
+### Google colab
+
+Go to https://colab.research.google.com/
+
+File -> Open notebooks -> notebooks/Exercises.ipynb
+
+### Local with docker
+
 Run these commands in the project directory
 
 ```
